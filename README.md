@@ -1,1 +1,1 @@
-# AIML-LAB
+# ML-LAB
